@@ -1,0 +1,10 @@
+{
+  "semi": false,
+  "arrowParens": "always",
+  "endOfLine": "crlf",
+  "singleQuote": false,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "tabWidth": 2,
+  "proseWrap": "always"
+}
